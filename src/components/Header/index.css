@@ -1,0 +1,65 @@
+.topbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 60px;
+    background-color: brown;
+}
+
+.topbar-left {
+    display: flex;
+    margin-left: 30px;
+}
+
+.topbar-right {
+    margin-right: 30px;
+    display: flex;
+}
+
+.icon-space {
+    margin-right: 10px;
+}
+
+.icon-size-right {
+    width: 28px;
+    height: 28px;
+    color: #025cd1;
+}
+
+.icon-size-left {
+    width: 28px;
+    height: 28px; 
+}
+
+.profile-picture {
+    width:28px;
+    height: 28px;
+    border-radius: 14px;
+    margin-right: 12px;
+}
+
+.profile-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons-container {
+    margin-right: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.search-bar {
+    border: 1px solid #bdc1c7;
+    border-radius: 8px;
+    padding: 6px;
+}

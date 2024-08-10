@@ -1,0 +1,19 @@
+.sidebar {
+    flex: 1;
+    background-color: #025cd1;
+    width: 18%;
+}
+
+.list-menu {
+    list-style: none;
+    color: #ffffff;
+    min-height: 100vh;
+} 
+
+.icon-space {
+    margin-right: 8px;
+}
+
+.arrow-icon {
+   padding-top: 0px;
+}
